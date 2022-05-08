@@ -119,7 +119,7 @@ Throughout the course, students will be collecting artifacts for their portfolio
 
 ### Outcomes
 
-Students have ample opportunity to discuss and share ideas and knowledge they gained through research. They also have ample opportunity to reflect on how computing innovations are beneficial, or harmful, to themselves as well as the community around them. They are also given the opportunity to explore the digital divide. I believe that this will help broaden their thinking and focus more attention to diversity, equity, and inclusion. 
+Students have ample opportunity to discuss and share ideas and knowledge they gained through research. They also have ample opportunity to reflect on how computing innovations are beneficial, or harmful, to themselves as well as the community around them. They are also given the opportunity to explore the digital divide. I believe that this will help broaden their thinking and focus more attention to diversity, equity, and inclusion.  
 
 ### References
 https://codehs.com/uploads/a70230b5fd0ee0ffb5481386f1a84ee1  
