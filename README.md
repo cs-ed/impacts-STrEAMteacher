@@ -99,7 +99,7 @@ Unit Fifteen: Impact of Computing
 
 Unit Eighteen: Creative Development
 - Video on “Introduction to Design Thinking”
-- Discussion Video Case Study “Helping Blind People See”
+- Discussion Video Case Study “Helping Blind People See"
 - Case Study Free Responses for class discussion
 - Brainstorm Activity for Project Ideas
 - Create Prototype for Project
