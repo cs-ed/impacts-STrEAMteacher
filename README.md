@@ -1,125 +1,75 @@
 # Impacts on Society
 
-The AP Computer Science Principles course is the first computer science class that I am planning to implement at the Academy of Careers and Exploration High School. The prerequisite to this course will be Algebra 1; thus opening up the course to students primarily in 10th to 12th grade, although there are quite a few 9th graders who are enrolled in Geometry, making them also eligible for the class. This course does not require students to have prior experience in computer programming as it is a first-time introduction to computer science. In addition to learning and applying the core principles of computer science, we would like to encourage students to implement computational thinking practices, including learning to become informed, responsible users of technology. 
-Our AP Computer Science Principles course will be offered through the curriculum available on CodeHS.org. According to the course overview provided by CodeHS, several of the overarching goals of the course are to “explain the impact computing has on society, economy, and culture; [and to] learn to be informed and responsible users of technology.”  Since this course is based on the College Board AP Computer Science Principles Framework, it incorporates Practice P6, Responsible Computing, where the main course objective is to “contribute to an inclusive, safe, collaborative, and ethical computing culture.” It focuses on five big ideas that are foundational for the computer science field. Big Idea 5 specifically addresses “Impact of Computing.” The description for Big Idea 5 is as follows: “Computers and computing have revolutionized our lives. To use computing safely and responsibly, we need to be aware of privacy, security, and ethical issues. As programmers, we need to understand how our programs will be used and be responsible for the consequences. As computer users, we need to understand how to protect ourselves and our privacy when using a computer.”
-Within the existing curriculum, the AP Computer Science Principles course has several units that incorporate Practice P6 and Big Idea 5. These units are Unit Three “Programming with JavaScript”; Unit 11 “The Internet”; Unit 12 Practice Performance Task  “The Effects of the Internet”; Unit 15 Project “The Impacts of Computing”;  and Unit 18 “Creative Development."  
+The AP Computer Science Principles course is the first computer science class that I am planning to implement at the Academy of Careers and Exploration High School. We are within a fringe, rural setting with 340 students. The prerequisite to this course will be Algebra 1; thus opening up the course to students primarily in 10th to 12th grade, although there are quite a few 9th graders who are enrolled in Geometry, making them also eligible for the class. 
+
+In order to entice students to explore computer science, our school is considering offering it as a third year math credit. This opens an alternative option to Algebra II and Personal Finance, the only choices available to students who need a third year math credit. According to an unofficial poll conducted by senior students in the Speech and Debate club this year, there is a growing interest in computer science among the underclassmen. In fact, because of this interest, I learned that the AP Computer Science Principles course was added to the list of choices for electives for the next school year. I recently spoke with the counselors and they expressed that the interest in the course is comparable to that of the Introduction to Robotics class. Currently, the only option to learn any programming is through the Introduction to Robotics class. Therefore, adding another computer science class would be a positive response to the growing interest from the student body. We are a small school, therefore depending on staffing demands, it is too early to confirm if the class will in fact be offered. However, this positive response is promising. 
+
+As far as technology is concerned, in the last staff meeting, the Principal mentioned that all Chromebook carts (there is one in every class to meet a 1:1 student to Chromebook ratio in the classroom) will be outfitted with new units for the incoming school year. The units collected from the carts will then be distributed to make sure every student who needs one will be equipped with one. The District still has the same capability to help out with wifi-connectivity and subsidies for internet service for families that may need them. With such infrastructure in place, coupled with a very strong IT Department in our District, implementing the AP Computer Science Principles course will not be hindered by lack of access to technology, internet service, nor wifi connectivity.
+
+For the AP Computer Science Principles course, no background in programming is required, so it is an available choice open to all the students. Our school currently has a 61% minority enrollment, with 53% percent economically disadvantaged students. Offering this class openly to students will allow them to explore and learn what computer science is really about, and potentially open more doors to career opportunities they would not have previously considered. Furthermore, this will also serve to welcome students to enroll in an AP-level Course, especially for those who would have never thought about enrolling in an AP course, or those who do not normally pursue advanced academic courses to reach eligibility for AP levels. 
+
+Special Education students at our school are routinely placed in mainstream classes for electives and even core subjects such as Science, History, and Government. In the past, Special Education students have taken the Introduction to Robotics class, successfully learning and acquiring competent computing and programming skills. Teachers routinely work with the Special Education teacher and aides to support students and uphold specific accommodations dictated by Individualized Education Plans (IEP). Their success in the Introduction to Robotics class promises a similar, positive outcome in the AP Computer Science Principles course that is designed to be open to all students.
+
+The curriculum of the AP Computer Science Principles course will follow that designed through CodeHS.org. Embedded in the prepared curriculum are overarching goals that focus on investigating the impact of computing on society, economy, and culture; learning to become informed, responsible users of technology; and establishing “ an inclusive, safe, collaborative, and ethical computing culture.” These overarching goals are addressed through various activities spread out in the curriculum, focusing primarily on the following units of study: Unit Three “Programming with JavaScript”; Unit 11 “The Internet”; Unit 12 Practice Performance Task  “The Effects of the Internet”; and Unit 15 Project “The Impacts of Computing.”
 
 
 ## Plan
 
 ### Learning Objectives
 
-The learning objectives for the class that relate to social impacts will focus on incorporating Practice P6 and Big Idea 5 from the College Board AP Computer Science Principles Framework. Assignments that relate to social impacts are found in five different units in the AP Computer Science Principles course. 
+The learning objectives for the class that relate to social impacts will focus on incorporating Practice P6 and Big Idea 5 from the College Board AP Computer Science Principles Framework. Assignments that relate to social impacts are found in four different units in the AP Computer Science Principles course. 
 
-Unit Three: Programming with JavaScript
-- Students will explain why programming is an important skill that can be useful
-- Students will explain ways that programs are being used today
-- Students will research and analyze the positive and negative effects of programs
-- Students will communicate their information and analyses to their classmates
+Learning Objectives for Unit Three: Programming with JavaScript
+- Knowledge: to learn what programing is; to learn the terminology associated with writing programing language
+- Comprehension: to demonstrate and apply the proper format and syntax associated with writing code
+- Application and Synthesis: to write a code that addresses a specific task, explain why programming is an important skill how it can be useful
+- Analysis: to survey and explain the various ways that programs are being used in today\
+- Evaluation: to discuss and compare the positive and negative effects of programs
 
-Unit Three: Programming with JavaScript and Unit Fifteen Project: Impact of Computing
-- Students will define “computing innovation” in their own words
-- Students will differentiate items that are computing innovations versus items that are not computing innovations and explain how they differentiated them
-- Students will perform an online search for examples of computing innovations that have had an impact on society, economy, or culture
-- Students will research and communicate beneficial and harmful effects of a computing innovation
-- Students will research for a computing innovation that uses or transforms personal data
-- Students will analyze and evaluate if there are data privacy, security, or storage concerns to their chosen computing innovation
-- Students will communicate their information and analyses to their classmates
+Learning Objectives for Unit Eleven: The Internet
+- Knowledge: to describe what and how the Internet works; to define what the digital divide is; to define cybersecurity
+- Comprehension: to explain through specific examples of how the Internet impacts their lives; to survey their peers and community with regards to accessibility to technology and the Internet; 
+- Application and Synthesis: to discuss if the digital divide is a current issue that impacts their peers or immediate community; 
+- Analysis and Evaluation: to analyze and discuss the implications of that specific computing innovation on data privacy, security, or storage concerns
 
-Unit Eleven: The Internet
-- Students will understand what the Internet is and how it works
-- Students will analyze how the Internet impacts their lives
-- Students will define what the digital divide is and analyze their immediate environment, such as school and community, discuss if and how it applies to their situation
-- Students will discuss the issue of anonymity its positive and negative implications
-- Students will research, understand, and discuss the legal and ethical concerns that surround Internet censorship
-- Students will analyze how internet protocols can be exploited and research protection methods that are available
-- Students will learn and discuss the impact of cybercrime
-- Students will learn how to counter cybercrime with cybersecurity and cryptography
-- Students will learn and research practical measures to take to improve their security on the Internet
-- Students will communicate their information and analyses to their classmates
-
-Unit Twelve: The Effects of the Internet
-- Students will select an Internet-based computing innovation 
-- Students will develop a computational artifact (graphic, animation, video, program, or audio recording) to communicate and help classmates learn about their Internet-based computing innovation of choice
-- Students will explain the innovation’s purpose and function
-- Students will explain the innovation’s potential impacts, positive and negative, on society, economy, and culture
-- Students will analyze any ethical implications of the Internet-based innovation
-- Students will identify and discuss any data privacy, security issues, or storage concerns associated with the Internet-based innovation
-
-Unit 18: Creative Development
-- Students will learn and understand the design thinking process based on the strategies developed at the Stanford D School
-- Students will apply the design thinking process and cycle to create a program that addresses a problem of interest
-- Students will build a prototype, test the prototype through user experience to develop improved iterations of their program
-- Students will optimize their program by reflecting on diverse perspectives gained from user feedback during testing 
-- Students will reflect, discuss, and present human biases associated with the program they developed
-- Students will reflect, discuss, and present any legal and ethical concerns associated with the program they developed
+Learning Objectives for Unit Twelve: The Effects of the Internet and Unit Fifteen Project: Impact of Computing
+- Knowledge: to define “computing innovation”
+- Comprehension: to identify specific, concrete examples of computing innovations used in the world today that have an impact on society, economy, or culture
+- Application and Synthesis: to research and communicate beneficial and harmful effects of a specific internet-based computing innovation; to develop a computational artifact (graphic, animation, video, program, or audio recording) for classmates to learn about their Internet-based computing innovation of choice
+- Analysis and Evaluation: to analyze and discuss the implications of that specific computing innovation on data privacy, security, or storage concerns; to discuss and evaluate the ethical implications of that internet-based computing innovation
 
 
-### Learning Activities
+### Learning Activities and Outcomes
 
-The learning activities in each unit will be diverse. Typically each unit will start with an introductory video that introduces the big idea concept. The video will be followed by a short assessment quiz. In order to explore the concept further, students may be presented with case studies to read, discuss, and answer questions about; or a programming assignment that applies the concept that is being discussed. Most units culminate with a larger project or performance task that is designed to apply the concepts learned while fostering the students’ creative and innovative mind. Students will also be presenting their projects to the class. The class will have the opportunity to critique or discuss various aspects of the project, especially as it relates to negative and/or positive impacts on society.. All student work will be compiled into a portfolio.
+The learning activities in each unit will be diverse. Typically each unit will start with an introductory video that introduces the big idea concept. The video will be followed by a short assessment quiz. In order to explore the concept further, students may be tasked to research specific topics, or be presented with case studies to read, discuss, and answer questions about; or assigned a programming assignment that applies the concept that is being discussed. These tasks are designed to apply the concepts learned while fostering the students’ creative, innovative, and analytical mind. Every unit will involve open discussion within student groups or as a whole class; or group presentations. The class will have the opportunity to critique or discuss various aspects of the project, especially as it relates to negative and/or positive impacts on society.. All student work will be compiled into a portfolio.
 
-Unit Three: Programming with JavaScript Learning Activities
-- Video on “Uses of Programs” that focuses on how programs are relevant and applicable to our daily lives
-- Reflection Video: TED Talk  “Why Should You Learn to Program?”
-- Free Response Reflection: “Programs in Your Life”
-- Free Response Task:” Computing Innovations”
+Specific sample learning activities for the described units are presented. The resulting outcomes as they relate to impacts on society and inclusivity are also discussed.
 
-Unit Eleven: The Internet
-- Video on “Welcome to the Internet” that focuses on how large an impact the Internet has made on our society
-- Check for Understanding “Welcome to the Internet Quiz”
-- Free response Reflection: “The Internet and You”
-- Video on “The Impact of the Internet”
-- Check for Understanding “The Impact of the Internet Quiz”
-- Article for Discussion “Crucial Steps to Close the Digital Divide”
-- Free Response Reflection “Closing the Digital Divide”
-- Application for Discussion “Pokemon Go: Unintended Effects”
-- Free Response Reflection “ Unintended Effects”
-- Video on “Cybersecurity”
-- Check for Understanding “Cybersecurity Quiz”
-- Activity for reflection and discussion: “You can be tracked”
-- Free Response Reflection and Discussion: “Personally Identifiable Information”
-- Video for Discussion: “ Rogue Access Points”
+Learning activities and Outcomes for Unit Three: Programming with JavaScript:
 
-Unit Twelve: The Effects of the Internet
-- Performance Task Project
-  - Choose an Internet-based computing innovation
-  - Create a computational artifact to present the class that explores and discusses 
-    - Intended purpose and function of the chosen innovation
-    - Positive and negative impacts of the chosen innovation
-    - Legal or ethical implications associated with the chosen innovation
-    - Data collection, security issues, data storage concerns of the chosen innovation
+- In this unit, students are presented with a couple videos: “Uses of Programs” and a TED Talk entitled “Why Should You Learn to Program?”. This is followed by a written free response reflection activity entitled “Programs in Your Life.”  This unit serves to first introduce the concept of programming by creating real-life connections to what students currently use and experience. This emphasizes the relevance of programs at a personal level and fosters the students’ probable interest to learn more about the subject. Once students recognize how pertinent programming is to their daily lives, we can further explore the positive and negative impacts of programming. Discussion can further lead to investigating, for example, the algorithms behind programming involved in social media and its connection to “electronic device’ addiction. An open discussion question such as “Are you purposely being manipulated to develop an electronic device addiction?” could spark interesting discussions. This really opens up the dialogue and hopefully entices students’ increased interest and awareness. There are a plethora of issues that can be discussed, but the common thread is that it will be relevant to all students. Students will recognize that regardless of their background or experience, they have a personal stake because they are not immune from these influences. If these topics successfully whet the students’ appetite to learn more, the more prone they will be to participating in the discussions as they will be able to relate to other students’ ideas and experiences. It creates a learning environment that promotes the intrinsic engagement of all students in the class.
 
-Unit Fifteen: Impact of Computing
-- Research: examples of computing innovations that impact society, economy, and/or culture. 
-- Class discussion about the positive and negative effects of the chosen computing innovations
-- Research: specific computing innovation that uses or transforms personal data
-- Class discussion on privacy issues, security impacts, and/or storage concerns arising from the chosen computing innovation
+Learning activities and Outcomes for Unit Eleven: The Internet
 
+- In this unit, students are presented with a couple videos about the Internet: “Welcome to the Internet” and “The Impact of the Internet.” This is followed by short assessment quizzes to check for understanding “Welcome to the Internet Quiz” and “The Impact of the Internet Quiz.” There is also a written free response reflection question “The Internet and You.” These activities will explain how the internet works and allow students to explore how the Internet impacts their lives. Again, it gives an opportunity for students to share and discuss personal experiences and habits. Discussions could lead to social media applications and their positive and negative impacts. “Pokemon Go” , a popular game (or app) is a concrete example that is examined in this unit. Students engage in a discussion regarding the unintended effects of “Pokemon Go.” There are many anecdotal examples of positive and negative effects of this game. On average students spend 4-6 hours on the Internet everyday; the majority of that time is spent on non-academic activities. Interesting discussions arising from Internet use, and/or positive or negative impacts of the Internet on their own selves will hopefully entice their interest to explore and delve deeper into the subject. It engages students to critically think about the personal ramifications of the Internet that they may have not considered previously. These discussions are pertinent to all students and it will motivate all to participate and learn more about the subject. These discussions will hopefully entice all students in the class to actively participate by sharing their personal views.
 
-Unit Eighteen: Creative Development
-- Video on “Introduction to Design Thinking”
-- Discussion Video Case Study “Helping Blind People See"
-- Case Study Free Responses for class discussion
-- Brainstorm Activity for Project Ideas
-- Create Prototype for Project
-- Video on “Test” that describes effective ways to test a prototype
-- Resource for Reflection and Discussion “Testing with Users”
-- Video on “How NOT to User Test”
-- Free Response Reflection: “How NOT to User Test”
-- Resource for Reflection and Discussion “How to Make Accessible Programs”
-- Free Response Reflections: “Test Prototype 1 and 2” and “Improve Your Prototype”
-- Project presentation, critique and discussion
+- Furthermore, this unit introduces the idea of the “Digital Divide.” Students may or may not be aware of the existence of the “Digital Divide.” Students have the opportunity to survey their own community and peer groups, creating awareness regarding the “Digital Divide.” Meaningful discussions can arise when addressing ways to close the digital gap. Students will have the opportunity to reflect on their personal situation and offer their creative solutions to the issue. Again, the relevant nature of the subject of discussion will motivate all students to engage.
 
+- This unit also explores data privacy and cybersecurity. There are written reflection questions that look into personal data in the assignment entitled “You can be tracked.” Discussion points can lead to examining the pros and cons of anonymity. Exploratory topics include hacking, cybercrime, and countermeasures to ensure cybersecurity. This may even entice student interest in pursuing the branch of cybersecurity in computer science. This opens the door for opportunities that students may have not previously entertained. Based on the surveys mentioned earlier, much of the current interest in computer science relates to game programming and design. An alternative field of cybersecurity may be a novel concept to pursue further, especially since the demand for this specialty will only increase in the future. 
 
+- Further discussion points that can be introduced are the legal and ethical ramifications of Internet censorship. Cross-curricular history/government class-related discussions with First Amendment rights opens up the floor for interesting insights from students. This consistently addresses issues that are pertinent to all students involved, thereby creating an engaging learning environment.
+
+Learning activities and Outcomes for Unit Twelve: The Effects of the Internet and Unit Fifteen Project: Impact of Computing
+
+- This unit is an extension of the concepts discussed in Unit Eleven. It focuses on specific computing innovations and positive and negative impacts on society, economy, and culture. In this unit, students are tasked to pick and research one specific, Internet-based computing innovation. The final product that the student must produce is a computational artifact (graphic, animation, video, program, or audio recording) to be presented to the class. Their research should look into the positive and negative impacts of the chosen Internet-based computing innovation, as well as its ethical implications. Furthermore, discussion of data collection, implications of privacy issues, security issues, and data storage concerns should be addressed in the presentation. Students could be asked to ponder if the original intention of a specific Internet-based computing innovation was positive, but developed into a negative impact.application. Or, similarly, students can be asked to contemplate how the algorithm could be modified to minimize negative effects of the chosen Internet-based computing innovation. 
+
+- This performance-based task motivates the student to critically analyze the implications of their chosen Internet-based computing innovation. It hopefully will persuade them to have a more critical mindset when using such applications on a daily basis. It may even spark them to engage with such discussions with their peers, extending awareness to others. 
 
 ### Assessment
 
-Throughout the course, students will be collecting artifacts for their portfolio as they complete each unit. The learning activities weigh heavily on students actively participating to show that they are meeting the learning objectives. Students are given ample opportunities to reflect on their learning by answering questions. These artifacts give insight to what the student is thinking regarding the various topics. Furthermore, student learning activities involve ample discussion. Active participation in discussion not only assesses knowledge of the subject matter, but also reveals how the students have reflected upon that knowledge
+Throughout the course, students will be collecting artifacts for their portfolio as they complete each unit. The learning activities weigh heavily on students actively participating to show that they are meeting the learning objectives. There are a few check for understanding quizzes to make sure students have a grasp on basic terminology and definitions. Students are given ample opportunities to reflect on their learning by answering questions. These artifacts give insight to what the student is thinking regarding the various topics. Furthermore, student learning activities involve ample discussion. Active participation in discussion not only assesses knowledge of the subject matter, but also reveals how the students have reflected upon that knowledge. Performance-task projects culminating with a presentation using a multi-media approach also provides evidence of a student's well-rounded understanding of the topics presented in the various units.
 
-### Outcomes
 
-Students have ample opportunity to discuss and share ideas and knowledge they gained through research. They also have ample opportunity to reflect on how computing innovations are beneficial, or harmful, to themselves as well as the community around them. They are also given the opportunity to explore the digital divide. I believe that this will help broaden their thinking and focus more attention to diversity, equity, and inclusion.  
 
 ### References
 https://codehs.com/uploads/a70230b5fd0ee0ffb5481386f1a84ee1  
